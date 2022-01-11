@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-components/static/css/main.fd0d18a0.css",
+    "main.js": "/react-components/static/js/main.d4141ca1.js",
+    "static/media/defaultImage.svg": "/react-components/static/media/defaultImage.85994bf01cbba8c23ae0169d17754077.svg",
+    "index.html": "/react-components/index.html",
+    "main.fd0d18a0.css.map": "/react-components/static/css/main.fd0d18a0.css.map",
+    "main.d4141ca1.js.map": "/react-components/static/js/main.d4141ca1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0d18a0.css",
+    "static/js/main.d4141ca1.js"
+  ]
+}
